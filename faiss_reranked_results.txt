@@ -1,0 +1,26 @@
+Document 1: 325
+CHAPTER 10
+Explainable AI 
+for Computer Vision
+Most machine learning and deep learning models lack a way of explaining 
+and interpreting results. Due to the dynamic nature of deep learning 
+models and increasing state-of-the-art models, the current model 
+evaluation is based on accuracy scores. ... (BM25 Score: 1.15)
+Document 2: 334
+• Normalizing the image to make convergence faster 
+during the training process. See Figures 10-7 and 10-8.
+Figure 10-7. Before transformation
+Figure 10-8. After transformation
+Chapter 10  explainable ai for Computer Vision... (BM25 Score: 0.44)
+Document 3: 340
+ Summary
+Explainability plays a major role going forward, because everyone wants 
+to understand what is going on behind the scenes. Business leaders will 
+have a hard time believing the AI models. Without being able to explain 
+the results, all AI solutions are incomplete, and it's no different ... (BM25 Score: 0.49)
+Document 4: 3
+ What Is Computer Vision
+Computer vision deals with specific problem sets that rely on images 
+and videos. It tries to decipher the information in the images/videos in 
+order to make meaningful decisions. Just like humans parse an image or 
+a series of images placed sequentially and make decisions... (BM25 Score: 0.22)
